@@ -10,8 +10,6 @@
   </url><url>
     <loc>http://localhost:1313/math-whizz/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/math-whizz/posts/</loc>
-  </url><url>
     <loc>http://localhost:1313/math-whizz/tags/</loc>
   </url>
 </urlset>
