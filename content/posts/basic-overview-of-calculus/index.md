@@ -29,7 +29,7 @@ Notice firstly that both velocity and total distances use different units of tim
 
 Note that no matter how far you travel, the velocity stays the same. We can also calculate the average velocity from this:
 
-$\text{Average velocity} = \frac{\text{Change in position}}{\text{Time elapsed}}$
+$$\text{Average velocity} = \frac{\text{Change in position}}{\text{Time elapsed}}$$
 
 - **Discussion question:** If I gave you a 3-hour recording of a speedometer of a car travelling, but no odometer, would you be able to figure out how far you travelled just with this information alone? Grab pen and paper and write down the answer. Justify it. Over the course of these posts I want you to physically write down answers to these questions. This is how you cement this knowledge in your brain.
     
