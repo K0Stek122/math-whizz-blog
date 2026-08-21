@@ -10,6 +10,15 @@
 		
 		
 		
+			<lastBuildDate>Fri, 21 Aug 2026 11:03:35 +0100</lastBuildDate>
+		
 			<atom:link href="http://localhost:1313/math-whizz/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Basic Overview of Calculus</title>
+				<link>http://localhost:1313/math-whizz/posts/basic-overview-of-calculus/</link>
+				<pubDate>Fri, 21 Aug 2026 11:03:35 +0100</pubDate>
+				<guid>http://localhost:1313/math-whizz/posts/basic-overview-of-calculus/</guid>
+				<description>&lt;p&gt;This post will serve as a basic introduction to my series on calculus. What will follow in this post is a top-down overview of the main Calculus concepts and their main ideas. I will attempt to use the least amount of formal mathematics in this post, but later on as we deep dive on each concept I aim to slowly introduce rigorousness while still giving you a layman&amp;rsquo;s look on every theory of calculus. I will also try to keep the rigour and concepts as separate as I can, only linking them in exercises where necessary.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>
