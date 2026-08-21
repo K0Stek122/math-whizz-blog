@@ -1,6 +1,6 @@
 +++
 date = '2026-08-11T19:50:32+01:00'
-draft = true
+draft = false
 title = 'Home'
 lead = "Be astonished with beautiful mathematics."
 +++
