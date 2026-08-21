@@ -14,7 +14,7 @@ Notice firstly that both velocity and total distances use different units of tim
 
 - **Discussion question:** Think of a car travelling 50 km/h. What does it mean? **Answer:** It means that every hour the total distance increases by 50 km.
 
-![velocityvsdistance](basic-overview-of-calculus/velocity_vs_distance.png)
+![velocityvsdistance](velocity_vs_distance.png)
 
 |Time elapsed (h)|Total distance (km)|Velocity (km/h)|
 |---|---|---|
@@ -66,7 +66,7 @@ Limit doesn't ask "where do you end up". It asks "Where are you headed".
 
 There are two types of integrals: indefinite and definite. Definite integrals simply have a numerical value: a real number that is practical and workable. Indefinite integrals can only be represented in algebra terms.
 
-![riemann](basic-overview-of-calculus/riemann.png)
+![riemann](riemann.jpg)
 
 See the summation example on the graph. We're taking small slices at varying instants of time. That's purely summation. It's an approximation. It's a really close approximation, but it isn't 100% accurate. The integral part makes it exact: what if instead of chopping the graph into chunks of seconds, milliseconds, or anything at all, we could take chunks so small that there is nothing left to guess? It's not a new magical operation; it's exactly the same as summation. But integration is at a "super-nano" scale. It adds up every "right now" there ever was. The guesswork disappears!
 
