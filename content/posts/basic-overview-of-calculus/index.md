@@ -2,11 +2,12 @@
 date = '2026-08-21T11:03:35+01:00'
 draft = false
 title = 'Basic Overview of Calculus'
+toc = true
 +++
 
 This post will serve as a basic introduction to my series on calculus. What will follow in this post is a top-down overview of the main Calculus concepts and their main ideas. I will attempt to use the least amount of formal mathematics in this post, but later on as we deep dive on each concept I aim to slowly introduce rigorousness while still giving you a layman's look on every theory of calculus. I will also try to keep the rigour and concepts as separate as I can, only linking them in exercises where necessary.
 
-# Introduction
+## Introduction
 
 Calculus mainly deals at its core with rates of change. How quickly objects are moving and how that speed changes. The best example of calculus is the speedometer. As you add speed acceleration gets bigger, and the total distance is increasing. Calculus is all about analysing these changes. Analysing rates of change is called differentiation and analysing total distance is called integration.
 
@@ -45,13 +46,13 @@ Velocity and total distance are two sides of the same coin. That is the crux of 
 
 On a graph, differentiation is an equation. Integration is the sum. But they are exact opposites.
 
-# More on differentiation
+## More on differentiation
 
 Differentiation is the rate of change, like discussed. It's best to think of differentiation as zooming in really close on the graph. At that point, when you zoom in very closely, any curve is linear. If that flat line goes down, the derivative is negative; if it goes up, it's positive.
 
 - **Discussion question:** Look at the table above. Notice that no matter which row you pick, dividing distance by time always gives you 50. Why does that work here but wouldn't work for the "constantly going up and down" velocity case from the earlier twist question? What would the table look like if you tried to build it for a car that's speeding up and slowing down the whole trip?
 
-# Limits
+## Limits
 
 One concept that we haven't discussed yet is limits. These play a role mostly in differentiation. To discuss this properly, I first need to introduce you to indeterminate forms. These forms do not give us any information. $\frac{0}{0}$, $\frac{\infty}{\infty}$. All of these fractions cannot be evaluated. In differentiation, derivatives will often reach these values due to the nature of rates of change; a lot of functions approach either zero or infinity. Values often end up in indeterminate forms, but they cannot be evaluated. What do we do then? This is where limits come in. Instead of reaching that very far function, we take its limit. We get very very close to the target function, but we do not evaluate the indeterminate form that occurs at $f(x)$. We evaluate it just next to that point instead: a little below it, at $x - 0.000001$, and a little above it, at $x + 0.000001$, to avoid reaching zero or infinity directly. If both sides settle on the same answer, that's the value we can now evaluate. Do note that this example is an approximation, but when we get to limits and their theorems we can prove that these are real values, not approximations. For now, take it for granted that these are actual values and not approximations.
 
@@ -62,7 +63,7 @@ One concept that we haven't discussed yet is limits. These play a role mostly in
 
 Limit doesn't ask "where do you end up". It asks "Where are you headed".
 
-# Integration
+## Integration
 
 There are two types of integrals: indefinite and definite. Definite integrals simply have a numerical value: a real number that is practical and workable. Indefinite integrals can only be represented in algebra terms.
 
@@ -74,7 +75,7 @@ See the summation example on the graph. We're taking small slices at varying ins
     - You would likely lay a bunch of rectangles to match up with the river, and you would calculate their areas. Is that an accurate measure? Well, no. Some rectangles poke out, and some don't. How would you make it more accurate? You'd keep adding rectangles.
     - Here's a follow-up question: Is there a point where rectangles get so tiny that they accurately describe the area?
 
-# Summary
+## Summary
 This post explored the informal way to talk about calculus. In the next posts I will start slowly introducing rigorous mathematics, but understanding comes before rigour. Differentiation theories are up next. Each major concept will get each own blog post in order to keep them short and atomic.
 
 See you soon! And remember, enjoy the journey, not the destination.
