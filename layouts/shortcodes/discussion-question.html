@@ -1,0 +1,12 @@
+<div class="discussion-question">
+  <p class="discussion-question-label">Discussion question</p>
+  <div class="discussion-question-body">
+    {{ .Inner | markdownify }}
+  </div>
+  {{ with .Get "answer" }}
+    <details class="discussion-question-answer">
+      <summary>Answer</summary>
+      <div>{{ . | markdownify }}</div>
+    </details>
+  {{ end }}
+</div>
