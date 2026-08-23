@@ -7,4 +7,4 @@ During my studies I also started freelancing in the Data Automation sector, and 
 
 While my heart is with Computer Science, I immensely enjoy mathematics. This wasn't so before I started my degree. My degree forced me to learn mathematics nevertheless. After I finished my Linear Algebra module something clicked. Everything suddenly made sense. From then on I started the arduous process of self-studying mathematics.
 
-Check out my [portfolio]("https://kostek.uk") for more information about my work and my other blogs.
+Check out my [portfolio](https://kostek.uk) for more information about my work and my other blogs.
