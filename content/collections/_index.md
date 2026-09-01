@@ -5,4 +5,18 @@ title = 'Collections'
 +++
 This is a breakdown of all series I have on my blog. Most of them are in progress but I periodically add new posts.
 
+## Secondary School
+- Geometry
+- Algebra
+- Trigonometry
+- Analytic Geometry
+
+## High School
 - [Calculus collection](../posts/calculus-collection/)
+
+## University
+- Abstract Algebra
+- Statistics
+- Linear Algebra
+- Proofs
+- Complex Analysis
