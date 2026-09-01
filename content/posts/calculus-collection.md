@@ -12,7 +12,7 @@ This is a collection of all blog posts in my Calculus collection in order that t
 ## Differentiation
 ### The Basics
 
-* Velocity at an Instant
+* [Velocity at an Instant](../velocity-at-an-instant)
 * Trigonometry
 * The Tangent Problem
 * Circular Motion
