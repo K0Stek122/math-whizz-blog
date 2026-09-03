@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 22 Aug 2026 17:02:06 +0100</lastBuildDate>
+			<lastBuildDate>Thu, 03 Sep 2026 12:00:00 +0100</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/math-whizz/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Unit Circle</title>
+				<link>http://localhost:1313/math-whizz/posts/the-unit-circle/</link>
+				<pubDate>Thu, 03 Sep 2026 12:00:00 +0100</pubDate>
+				<guid>http://localhost:1313/math-whizz/posts/the-unit-circle/</guid>
+				<description>&lt;p&gt;Unit circles by themselves are not crucial for calculus. The reason why we discuss them here is that they are the perfect bridge between traditional trigonometry and the abstract nature of calculus.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Calculus collection</title>
 				<link>http://localhost:1313/math-whizz/posts/calculus-collection/</link>

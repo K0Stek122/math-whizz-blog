@@ -13,6 +13,7 @@ This is a collection of all blog posts in my Calculus collection in order that t
 ### The Basics
 
 * [Velocity at an Instant](../velocity-at-an-instant)
+* [The Unit Circle](../the-unit-circle/)
 * Trigonometry
 * The Tangent Problem
 * Circular Motion
