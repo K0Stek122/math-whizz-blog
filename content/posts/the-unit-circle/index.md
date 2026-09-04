@@ -51,3 +51,6 @@ therefore:
 $$\lim_{x \to 0} \frac{\sin\left(x \cdot \frac{\pi}{180}\right)}{x} \approx 0.0175$$
 
 which shows that degrees don't give you a clean constant of 1 to work with — you're stuck carrying that 0.0175 conversion factor instead. This is also how engineers convert degrees to radians, by multiplying degrees by 0.0175. If we used degrees everywhere we'd have to constantly carry that ugly constant with us.
+
+## Conclusion
+We had a good look at basic trigonometry required for calculus. We analysed why sines and cosines fit so well into Calculus, and hopefully you now have a better understanding of trigonometry that we will later use for complex calculus complex.
